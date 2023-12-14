@@ -1,0 +1,10 @@
+No.1 tip:
+USE GOOGLE. If you are struggling with anything, someone has stack overflowed it.
+
+Datatypes:
+string: (str()): several alphanumeric characters such as '1fasdjh2395'. They are JUST symbols - you cannot add '1' and '2'.
+integer: (int()): any number WITHOUT a decimal place
+float: (float()): any number WITH a decimal place. Short for floating point.
+boolean: either True or False: need the capital letter
+list (array): (arr()): a list of several items.
+There are more, but you will probably not need them.
